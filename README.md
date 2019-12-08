@@ -14,7 +14,10 @@ The base images contain the DotNet Global Tools added to its `Path`, thus enabli
 
 The Cake images contain the `Cake.Tool` global dotnet tool. It can be used by running: `dotnet cake <command>`.
 
+#### Coverlet
+
+The Coverlet image contains the `coverlet.console` global dotnet tool. It can be used by running `coverlet`
+
 ### Roadmap
 
 + Sonarscanner
-+ Coverlet
