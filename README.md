@@ -2,6 +2,8 @@
 
 This project aims to ease CICD pipelines using Docker and Microsoft`s own images by having some popular tools already added to them.
 
+You can find all our images in [DockerHub](https://hub.docker.com/r/rodolphoalves/dotnet-tools).
+
 ### Supported Tools
 
 Currently no tools are yet added
@@ -24,5 +26,7 @@ The Sonarscanner image constainer the `dotnet-sonarscanner` global dotnet tool. 
 
 ### Roadmap
 
++ CAKE Tasks
 + Support for SDK 3.0
 + Support for images other than Alpine
++ Better documentation
