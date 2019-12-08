@@ -26,7 +26,8 @@ The Sonarscanner image constainer the `dotnet-sonarscanner` global dotnet tool. 
 
 ### Roadmap
 
-+ CAKE Tasks
 + Support for SDK 3.0
 + Support for images other than Alpine
 + Better documentation
++ CICD with GitHub Actions
++ Publishing with GitHub Packages
