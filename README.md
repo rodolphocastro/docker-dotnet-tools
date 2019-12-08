@@ -16,8 +16,13 @@ The Cake images contain the `Cake.Tool` global dotnet tool. It can be used by ru
 
 #### Coverlet
 
-The Coverlet image contains the `coverlet.console` global dotnet tool. It can be used by running `coverlet`
+The Coverlet image contains the `coverlet.console` global dotnet tool. It can be used by running `coverlet <paramenters>`
+
+#### Sonarscanner
+
+The Sonarscanner image constainer the `dotnet-sonarscanner` global dotnet tool. It can be used by running `dotnet-sonarscanner <parameters>`.
 
 ### Roadmap
 
-+ Sonarscanner
++ Support for SDK 3.0
++ Support for images other than Alpine
